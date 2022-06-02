@@ -18,3 +18,4 @@ printf("Size of a float: %ld byte(s)", sizeof(float));
 
 return (0);
 }
+
