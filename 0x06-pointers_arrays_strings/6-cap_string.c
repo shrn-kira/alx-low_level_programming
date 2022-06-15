@@ -3,7 +3,7 @@
 
 /**
 * *cap_string - this is awesome
- @s: pointer to char params
+* @s: pointer to char params
 * Return: *s
 */
 char *cap_string(char *s)
