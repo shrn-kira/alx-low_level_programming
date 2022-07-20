@@ -4,7 +4,7 @@
  * free_listint_safe - frees a linked list safely
  * @h: data type pointer to the first node in the linked list.
  *
- * Return: the number of elements in the freed list.
+ * Return: the size of the list that was freed.
  */
 size_t free_listint_safe(listint_t **h)
 {
