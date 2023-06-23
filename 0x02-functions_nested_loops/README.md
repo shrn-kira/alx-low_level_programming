@@ -1,1 +1,1 @@
-Readme file for the functions nested loops folder
+This the readme file for the 0x02-functions_nested_loops directory
