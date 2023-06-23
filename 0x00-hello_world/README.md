@@ -1,1 +1,1 @@
-This is the README file for the 0x00-hello_world project.
+This is the readme file for the 0x00-hello_world directory
